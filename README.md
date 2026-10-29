@@ -1,5 +1,7 @@
 # 北航校园网自动登录（BUAA-AutoLogin）
 
+> 仅供学习交流，请遵守学校网络管理规定，勿用于他人账号。凭据仅存于本机（DPAPI 加密），
+
 解决：每次开机 Wi-Fi（BUAA-WiFi）已自动连接，但还要手动打开浏览器登录
 `https://gw.buaa.edu.cn`（srun3000 网关，ac_id=78）的问题。
 

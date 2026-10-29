@@ -1,0 +1,7 @@
+# 本机运行产生的私密/临时文件，切勿上传
+config.json
+password.sec
+login.log
+login.old.log
+*.old.log
+tests/*.out
