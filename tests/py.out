@@ -1,0 +1,4 @@
+hmac=b84ae6e366a947c9cebf26049ed0baac
+chksum=d8d86e9bd6c04ac6a591175d1ee77b03ac9e4eef
+info_b64=OKJwuxxbODAzQU1HYfMzPScYd8r2+DilR+C8J6jVnqVMxMewqqFV21BEz4H8CuzynYZL4a+t/UEyofaehoEQa2DxiGBQKO/ZkfPiZU3nPcRcV58Xs93NDCt4TOBagVkKovF1CkBIds+=
+info_json={"username":"test_user","password":"P@ss w0rd!","ip":"10.20.30.40","acid":"78","enc_ver":"srun_bx1"}
